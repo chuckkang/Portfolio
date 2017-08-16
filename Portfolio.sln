@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3C606DF-AA8D-4DE9-A79C-8D7E5A7864BB}"
+	ProjectSection(SolutionItems) = preProject
+		Portfolio.html = Portfolio.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{B96DD588-040A-4D55-B651-F039F0C57242}"
+	ProjectSection(SolutionItems) = preProject
+		css\styles.css = css\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{495218E0-4A57-472B-A284-5B44B0E36534}"
+	ProjectSection(SolutionItems) = preProject
+		images\ajax.png = images\ajax.png
+		images\angular.png = images\angular.png
+		images\bootstrap.png = images\bootstrap.png
+		images\c-sharp.png = images\c-sharp.png
+		images\codeigniter.png = images\codeigniter.png
+		images\codepen.png = images\codepen.png
+		images\CSS.png = images\CSS.png
+		images\d3.png = images\d3.png
+		images\django.png = images\django.png
+		images\expressjs.png = images\expressjs.png
+		images\familycontacts.png = images\familycontacts.png
+		images\fiveEleven.png = images\fiveEleven.png
+		images\github.png = images\github.png
+		images\HTML.png = images\HTML.png
+		images\iOS-Swift.png = images\iOS-Swift.png
+		images\JavaScript.png = images\JavaScript.png
+		images\jQuery.png = images\jQuery.png
+		images\lamode.png = images\lamode.png
+		images\LAMP.png = images\LAMP.png
+		images\linkedin.png = images\linkedin.png
+		images\materialize.png = images\materialize.png
+		images\MEAN.png = images\MEAN.png
+		images\mongodb.png = images\mongodb.png
+		images\mysql.png = images\mysql.png
+		images\nodejs.png = images\nodejs.png
+		images\photo_of_me.jpg = images\photo_of_me.jpg
+		images\php.png = images\php.png
+		images\portfolio_assignment.png = images\portfolio_assignment.png
+		images\python.png = images\python.png
+		images\RUBY.png = images\RUBY.png
+		images\socket.png = images\socket.png
+		images\sqlite.png = images\sqlite.png
+		images\twitter.png = images\twitter.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B96DD588-040A-4D55-B651-F039F0C57242} = {C3C606DF-AA8D-4DE9-A79C-8D7E5A7864BB}
+		{495218E0-4A57-472B-A284-5B44B0E36534} = {C3C606DF-AA8D-4DE9-A79C-8D7E5A7864BB}
+	EndGlobalSection
+EndGlobal
